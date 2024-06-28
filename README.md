@@ -1,3 +1,4 @@
+![logo](https://github.com/shahzain46/shahzain46/blob/main/software%20developer.png)
 <h1 align="center">Hi 👋, I'm shah zain</h1>
 <h3 align="center">A passionate Mern stack developer from Pakistan</h3>
 
