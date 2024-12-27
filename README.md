@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzain46&label=Profile%20views&color=0e75b6&style=flat" alt="shahzain46" /> </p>
 
-- 🌱 I’m currently learning **ReactNative**
 
 - 📫 How to reach me **shahzain6016@gmail.com**
 
